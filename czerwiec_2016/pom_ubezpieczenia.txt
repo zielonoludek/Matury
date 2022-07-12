@@ -1,0 +1,332 @@
+Nazwisko	Imie	Data_urodz	Miejsce_zamieszkania	miesiac	kobieta	rok_ur	wiek	kwota	s1	czy_60	składka
+Czarnecka	Ewelina	22190	srednie miasto	10	1	1960	56	25000	0.0012	0	30
+Nesterowicz	Piotr	30952	wies	9	0	1984	32	30000	0.0012	0	36
+Adamus	Magdalena	24753	duze miasto	10	1	1967	49	25000	0.0012	0	30
+Kowalski	Hubert	31544	wies	5	0	1986	30	30000	0.001	0	30
+Zamojska	Maria	22780	wies	5	1	1962	54	25000	0.0012	0	30
+Matecki	Adam	31694	duze miasto	10	0	1986	30	30000	0.001	0	30
+Potocki	Anna	33569	srednie miasto	11	1	1991	25	25000	0.001	0	25
+Przybylska	Laura	30372	srednie miasto	2	1	1983	33	25000	0.0012	0	30
+Monachijski	Piotr	33568	srednie miasto	11	0	1991	25	30000	0.001	0	30
+Cender	Urszula	31111	srednie miasto	3	1	1985	31	25000	0.0012	0	30
+Badowski	Bogdan	17347	srednie miasto	6	0	1947	69	30000	0.0012	49	85
+Mazurowski	Janusz	33321	duze miasto	3	0	1991	25	30000	0.001	0	30
+Lasota	Piotr	26093	duze miasto	6	0	1971	45	30000	0.0012	0	36
+Olczak	Damian	17144	duze miasto	12	0	1946	70	30000	0.0012	49	85
+Kolesinski	Konstanty	26019	duze miasto	3	0	1971	45	30000	0.0012	0	36
+Pakulski	Bogdan	30193	srednie miasto	8	0	1982	34	30000	0.0012	0	36
+Banasiak	Paulina	29668	wies	3	1	1981	35	25000	0.0012	0	30
+Bajdek	Katarzyna	34945	male miasto	9	1	1995	21	25000	0.001	0	25
+Chojnacka	Monika	23309	wies	10	1	1963	53	25000	0.0012	0	30
+Karpowicz	Anna	16498	srednie miasto	3	1	1945	71	25000	0.0012	49	79
+Korcela	Marta	19872	duze miasto	5	1	1954	62	25000	0.0012	49	79
+Deska	Ewa	26018	srednie miasto	3	1	1971	45	25000	0.0012	0	30
+Krencik	Maciej	25110	male miasto	9	0	1968	48	30000	0.0012	0	36
+Nawrot	Janusz	33411	wies	6	0	1991	25	30000	0.001	0	30
+Legnicka	Karolina	30969	duze miasto	10	1	1984	32	25000	0.0012	0	30
+Wenecka	Justyna	19368	duze miasto	1	1	1953	63	25000	0.0012	49	79
+Kaleta	Natalia	23668	male miasto	10	1	1964	52	25000	0.0012	0	30
+Samarskyi	Kostiantyn	19851	duze miasto	5	0	1954	62	30000	0.0012	49	85
+Tkacz	Adam	17896	wies	12	0	1948	68	30000	0.0012	49	85
+Borsuk	Magdalena	25045	duze miasto	7	1	1968	48	25000	0.0012	0	30
+Anusz	Anna	18367	duze miasto	4	1	1950	66	25000	0.0012	49	79
+Trzebnicka	Anna	21630	srednie miasto	3	1	1959	57	25000	0.0012	0	30
+Bardzio	Celina	16075	male miasto	1	1	1944	72	25000	0.0012	49	79
+Firlej	Anna	30640	srednie miasto	11	1	1983	33	25000	0.0012	0	30
+Sadcza	Romuald	21633	duze miasto	3	0	1959	57	30000	0.0012	0	36
+Uniejewski	Tobiasz	22843	srednie miasto	7	0	1962	54	30000	0.0012	0	36
+Iwaszko	Katarzyna	22944	duze miasto	10	1	1962	54	25000	0.0012	0	30
+Rutkowski	Sebastian	28856	srednie miasto	1	0	1979	37	30000	0.0012	0	36
+Kubiak	Aleksandra	27510	wies	4	1	1975	41	25000	0.0012	0	30
+Krakowska	Karolina	24744	duze miasto	9	1	1967	49	25000	0.0012	0	30
+Uss	Adrian	26703	male miasto	2	0	1973	43	30000	0.0012	0	36
+Zasada	Joanna	18847	srednie miasto	8	1	1951	65	25000	0.0012	49	79
+Majka	Danuta	33899	duze miasto	10	1	1992	24	25000	0.001	0	25
+Kaczmar	Monika	34773	duze miasto	3	1	1995	21	25000	0.001	0	25
+Adamczyk	Irena	28929	srednie miasto	3	1	1979	37	25000	0.0012	0	30
+Jasiak	Monika	17612	male miasto	3	1	1948	68	25000	0.0012	49	79
+Sosnowski	Arkadiusz	26002	duze miasto	3	0	1971	45	30000	0.0012	0	36
+Bydgoska	Karolina	17050	duze miasto	9	1	1946	70	25000	0.0012	49	79
+Szulgo	Marek	17757	srednie miasto	8	0	1948	68	30000	0.0012	49	85
+Szczygielski	Tadeusz	30155	srednie miasto	7	0	1982	34	30000	0.0012	0	36
+Magierowicz	Patryk	22758	male miasto	4	0	1962	54	30000	0.0012	0	36
+Biegaj	Karolina	17830	srednie miasto	10	1	1948	68	25000	0.0012	49	79
+Boss	Anna	16168	srednie miasto	4	1	1944	72	25000	0.0012	49	79
+Rusu	Siergiu	32118	srednie miasto	12	0	1987	29	30000	0.001	0	30
+Lipski	Adam	20332	duze miasto	8	0	1955	61	30000	0.0012	49	85
+Milcarz	Maciej	19375	srednie miasto	1	0	1953	63	30000	0.0012	49	85
+Czarnoleska	Patrycja	34818	duze miasto	4	1	1995	21	25000	0.001	0	25
+Rejkowicz	Maria	23775	wies	2	1	1965	51	25000	0.0012	0	30
+Rybicka	Martyna	29371	duze miasto	5	1	1980	36	25000	0.0012	0	30
+Gajak	Agnieszka	27370	duze miasto	12	1	1974	42	25000	0.0012	0	30
+Zakowicz	Kacper	19032	srednie miasto	2	0	1952	64	30000	0.0012	49	85
+Chorzowska	Paulina	27475	duze miasto	3	1	1975	41	25000	0.0012	0	30
+Belgracka	Karolina	20719	srednie miasto	9	1	1956	60	25000	0.0012	0	30
+Paszewski	Piotr	22206	male miasto	10	0	1960	56	30000	0.0012	0	36
+Wielogorski	Karol	17376	duze miasto	7	0	1947	69	30000	0.0012	49	85
+Kowalczyk	Karol	34280	male miasto	11	0	1993	23	30000	0.001	0	30
+Marzec	Maciej	25821	male miasto	9	0	1970	46	30000	0.0012	0	36
+Kaczan	Ewa	20242	male miasto	6	1	1955	61	25000	0.0012	49	79
+Cichocka	Anna	25415	duze miasto	7	1	1969	47	25000	0.0012	0	30
+Wichrowa	Ewa	19048	wies	2	1	1952	64	25000	0.0012	49	79
+Wpawska	Barbara	18811	duze miasto	7	1	1951	65	25000	0.0012	49	79
+Bugajska	Julia	17072	male miasto	9	1	1946	70	25000	0.0012	49	79
+Adaszek	Barbara	33277	srednie miasto	2	1	1991	25	25000	0.001	0	25
+Mielecka	Joanna	16987	srednie miasto	7	1	1946	70	25000	0.0012	49	79
+Radu	Daniel	33408	male miasto	6	0	1991	25	30000	0.001	0	30
+Chorzowska	Joanna	25070	srednie miasto	8	1	1968	48	25000	0.0012	0	30
+Szymenderski	Olaf	34100	male miasto	5	0	1993	23	30000	0.001	0	30
+Adamczyk	Karolina	19522	wies	6	1	1953	63	25000	0.0012	49	79
+Banasik	Zofia	27284	wies	9	1	1974	42	25000	0.0012	0	30
+Kostrzewa	Piotr	27347	duze miasto	11	0	1974	42	30000	0.0012	0	36
+Gazda	Alicja	20618	duze miasto	6	1	1956	60	25000	0.0012	0	30
+Lubelska	Justyna	19256	duze miasto	9	1	1952	64	25000	0.0012	49	79
+Grabowska	Klaudia	21898	duze miasto	12	1	1959	57	25000	0.0012	0	30
+Talaska	Marcin	16873	duze miasto	3	0	1946	70	30000	0.0012	49	85
+Lewandowski	Bartosz	34893	srednie miasto	7	0	1995	21	30000	0.001	0	30
+Durka	Kornelia	16028	duze miasto	11	1	1943	73	25000	0.0012	49	79
+Krynicka	Justyna	33446	srednie miasto	7	1	1991	25	25000	0.001	0	25
+Baran	Leon	18892	srednie miasto	9	0	1951	65	30000	0.0012	49	85
+Pleszewska	Patrycja	32219	duze miasto	3	1	1988	28	25000	0.001	0	25
+Kika	Marcelina	31771	wies	12	1	1986	30	25000	0.001	0	25
+Legnicka	Maryla	30633	male miasto	11	1	1983	33	25000	0.0012	0	30
+Kijowski	Wojciech	34177	male miasto	7	0	1993	23	30000	0.001	0	30
+Antczak	Klaudia	33281	duze miasto	2	1	1991	25	25000	0.001	0	25
+Krakowska	Teresa	21897	duze miasto	12	1	1959	57	25000	0.0012	0	30
+Suwalska	Paulina	18604	male miasto	12	1	1950	66	25000	0.0012	49	79
+Karwatowska	Marzena	18910	duze miasto	10	1	1951	65	25000	0.0012	49	79
+Sofijska	Ewa	17056	wies	9	1	1946	70	25000	0.0012	49	79
+Sadecki	Andrzej	22619	wies	12	0	1961	55	30000	0.0012	0	36
+Podlaska	Paulina	19740	duze miasto	1	1	1954	62	25000	0.0012	49	79
+Augustowska	Zofia	24222	srednie miasto	4	1	1966	50	25000	0.0012	0	30
+Piotrkowska	Paulina	17196	male miasto	1	1	1947	69	25000	0.0012	49	79
+Sopocka	Karolina	32013	duze miasto	8	1	1987	29	25000	0.001	0	25
+Piotrkowska	Katarzyna	23679	duze miasto	10	1	1964	52	25000	0.0012	0	30
+Krakowska	Beata	26239	duze miasto	11	1	1971	45	25000	0.0012	0	30
+Kalinowski	Szymon	30774	srednie miasto	4	0	1984	32	30000	0.0012	0	36
+Rzymski	Robert	25818	srednie miasto	9	0	1970	46	30000	0.0012	0	36
+Kowalik	Malgorzata	16529	male miasto	4	1	1945	71	25000	0.0012	49	79
+Bajda	Ewelina	30530	male miasto	8	1	1983	33	25000	0.0012	0	30
+Kapala	Adrian	31601	duze miasto	7	0	1986	30	30000	0.001	0	30
+Szklarska	Marzena	28427	duze miasto	10	1	1977	39	25000	0.0012	0	30
+Jagos	Wioletta	23139	duze miasto	5	1	1963	53	25000	0.0012	0	30
+Szklarska	Dominika	29861	duze miasto	10	1	1981	35	25000	0.0012	0	30
+Bolkowski	Jan	32545	male miasto	2	0	1989	27	30000	0.001	0	30
+Barszcz	Patryk	29361	duze miasto	5	0	1980	36	30000	0.0012	0	36
+Kot	Maciej	17772	male miasto	8	0	1948	68	30000	0.0012	49	85
+Junak	Roxana	28580	srednie miasto	3	1	1978	38	25000	0.0012	0	30
+Setniewska	Wiktoria	21154	male miasto	11	1	1957	59	25000	0.0012	0	30
+Hajkiewicz	Justyna	18183	duze miasto	10	1	1949	67	25000	0.0012	49	79
+Balcerzak	Ilona	20630	srednie miasto	6	1	1956	60	25000	0.0012	0	30
+Litewka	Maciej	34364	duze miasto	1	0	1994	22	30000	0.001	0	30
+Kotala	Anna	25582	srednie miasto	1	1	1970	46	25000	0.0012	0	30
+Aronowska	Halina	29350	duze miasto	5	1	1980	36	25000	0.0012	0	30
+Katowicka	Dorota	21704	srednie miasto	6	1	1959	57	25000	0.0012	0	30
+Bitner	Halina	20436	duze miasto	12	1	1955	61	25000	0.0012	49	79
+Sochacki	Marcin	24475	duze miasto	1	0	1967	49	30000	0.0012	0	36
+Skrok	Arkadiusz	26773	srednie miasto	4	0	1973	43	30000	0.0012	0	36
+Bartosiak	Kazimiera	17668	duze miasto	5	1	1948	68	25000	0.0012	49	79
+Siedlecka	Rozalia	17382	duze miasto	8	1	1947	69	25000	0.0012	49	79
+Muchewicz	Piotr	16976	srednie miasto	6	0	1946	70	30000	0.0012	49	85
+Pilipczuk	Mariusz	33779	male miasto	6	0	1992	24	30000	0.001	0	30
+Krakowska	Paulina	33885	srednie miasto	10	1	1992	24	25000	0.001	0	25
+Bielun	Urszula	30498	wies	7	1	1983	33	25000	0.0012	0	30
+Grzeskowiak	Szymon	22090	wies	6	0	1960	56	30000	0.0012	0	36
+Karpek	Paulina	27938	srednie miasto	6	1	1976	40	25000	0.0012	0	30
+Kowal	Ewa	23762	duze miasto	1	1	1965	51	25000	0.0012	0	30
+Augustyn	Zofia	25158	srednie miasto	11	1	1968	48	25000	0.0012	0	30
+Filipczuk	Paulina	24824	duze miasto	12	1	1967	49	25000	0.0012	0	30
+Miklas	Maciej	33398	wies	6	0	1991	25	30000	0.001	0	30
+Vasina	Adam	34795	wies	4	0	1995	21	30000	0.001	0	30
+Bydgoska	Inga	20374	duze miasto	10	1	1955	61	25000	0.0012	49	79
+Banasiewicz	Beata	25416	duze miasto	8	1	1969	47	25000	0.0012	0	30
+Fryziel	Daria	21548	duze miasto	12	1	1958	58	25000	0.0012	0	30
+Bedka	Justyna	31232	wies	7	1	1985	31	25000	0.0012	0	30
+Banaszczyk	Barbara	28472	duze miasto	12	1	1977	39	25000	0.0012	0	30
+Ptaszek	Janusz	34287	duze miasto	11	0	1993	23	30000	0.001	0	30
+Rey	Tadeusz	24972	srednie miasto	5	0	1968	48	30000	0.0012	0	36
+Zeller	Teresa	18787	wies	6	1	1951	65	25000	0.0012	49	79
+Majcherczyk	Maciej	27611	wies	8	0	1975	41	30000	0.0012	0	36
+Grabicka	Grazyna	26071	duze miasto	5	1	1971	45	25000	0.0012	0	30
+Praska	Anna	18285	srednie miasto	1	1	1950	66	25000	0.0012	49	79
+Jakus	Piotr	33696	duze miasto	4	0	1992	24	30000	0.001	0	30
+Grdulska	Danuta	25404	duze miasto	7	1	1969	47	25000	0.0012	0	30
+Badowski	Karol	21769	srednie miasto	8	0	1959	57	30000	0.0012	0	36
+Majkut	Maciej	26490	srednie miasto	7	0	1972	44	30000	0.0012	0	36
+Cabaj	Martyna	28897	wies	2	1	1979	37	25000	0.0012	0	30
+Malecka	Stefania	33454	duze miasto	8	1	1991	25	25000	0.001	0	25
+Gagatek	Stefan	24539	duze miasto	3	0	1967	49	30000	0.0012	0	36
+Otwocka	Ewelia	27992	srednie miasto	8	1	1976	40	25000	0.0012	0	30
+Pleszewska	Krystyna	26335	male miasto	2	1	1972	44	25000	0.0012	0	30
+Sabatowicz	Szymon	31095	duze miasto	2	0	1985	31	30000	0.0012	0	36
+Magiera	Robert	26112	male miasto	6	0	1971	45	30000	0.0012	0	36
+Klekotko	Justyna	23272	srednie miasto	9	1	1963	53	25000	0.0012	0	30
+Nowak	Damian	32952	male miasto	3	0	1990	26	30000	0.001	0	30
+Doszko	Katarzyna	19759	wies	2	1	1954	62	25000	0.0012	49	79
+Rozwalka	Wojciech	27324	wies	10	0	1974	42	30000	0.0012	0	36
+Aleksandrowicz	Krystyna	21838	srednie miasto	10	1	1959	57	25000	0.0012	0	30
+Kilarski	Ewa	21051	male miasto	8	1	1957	59	25000	0.0012	0	30
+Rykowski	Roman	31292	male miasto	9	0	1985	31	30000	0.0012	0	36
+Skierniewicka	Malwina	17179	duze miasto	1	1	1947	69	25000	0.0012	49	79
+Wronka	Cezary	32305	srednie miasto	6	0	1988	28	30000	0.001	0	30
+Wroniszewski	Mieszko	32081	duze miasto	10	0	1987	29	30000	0.001	0	30
+Andrzejewska	Barbara	31749	srednie miasto	12	1	1986	30	25000	0.001	0	25
+Klimaszewski	Krzysztof	18648	male miasto	1	0	1951	65	30000	0.0012	49	85
+Pachnowski	Jacek	16734	srednie miasto	10	0	1945	71	30000	0.0012	49	85
+Klimaszewska	Ewa	25036	duze miasto	7	1	1968	48	25000	0.0012	0	30
+Malik	Jakub	17342	srednie miasto	6	0	1947	69	30000	0.0012	49	85
+Grzeskowiak	Szymon	23157	wies	5	0	1963	53	30000	0.0012	0	36
+Lwowska	Paulina	17166	duze miasto	12	1	1946	70	25000	0.0012	49	79
+Adamowicz	Jolanta	24471	duze miasto	12	1	1966	50	25000	0.0012	0	30
+Pastuszka	Marzena	34523	srednie miasto	7	1	1994	22	25000	0.001	0	25
+Kalitowski	Marcin	18354	srednie miasto	4	0	1950	66	30000	0.0012	49	85
+Miller	Zbigniew	34069	duze miasto	4	0	1993	23	30000	0.001	0	30
+Bartkiewicz	Elwira	17331	duze miasto	6	1	1947	69	25000	0.0012	49	79
+Dmochowska	Katarzyna	33550	male miasto	11	1	1991	25	25000	0.001	0	25
+Szostek	Krzysztof	24426	srednie miasto	11	0	1966	50	30000	0.0012	0	36
+Paprocki	Konrad	19307	male miasto	11	0	1952	64	30000	0.0012	49	85
+Holmes	Barbara	26626	duze miasto	11	1	1972	44	25000	0.0012	0	30
+Kozar	Robert	21897	duze miasto	12	0	1959	57	30000	0.0012	0	36
+Bednarska	Karolina	34865	duze miasto	6	1	1995	21	25000	0.001	0	25
+Piotrkowska	Zuzanna	19712	duze miasto	12	1	1953	63	25000	0.0012	49	79
+Antos	Karolina	27893	srednie miasto	5	1	1976	40	25000	0.0012	0	30
+Kumur	Genowefa	28226	duze miasto	4	1	1977	39	25000	0.0012	0	30
+Wilczko	Adrian	29954	wies	1	0	1982	34	30000	0.0012	0	36
+Bugajski	Jan	23111	duze miasto	4	0	1963	53	30000	0.0012	0	36
+Florczuk	Katarzyna	24808	duze miasto	12	1	1967	49	25000	0.0012	0	30
+Bielec	Maria	17601	male miasto	3	1	1948	68	25000	0.0012	49	79
+Busz	Jan	21199	wies	1	0	1958	58	30000	0.0012	0	36
+Balicka	Anna	29879	duze miasto	10	1	1981	35	25000	0.0012	0	30
+Badowska	Danuta	19659	srednie miasto	10	1	1953	63	25000	0.0012	49	79
+Labryga	Piotr	22514	duze miasto	8	0	1961	55	30000	0.0012	0	36
+Barcik	Barbara	25332	duze miasto	5	1	1969	47	25000	0.0012	0	30
+Ksel	Krzysztof	20181	male miasto	4	0	1955	61	30000	0.0012	49	85
+Skrzypek	Bartosz	19141	duze miasto	5	0	1952	64	30000	0.0012	49	85
+Konstantinova	Alexandra	18147	duze miasto	9	1	1949	67	25000	0.0012	49	79
+Kowalska	Karolina	26146	srednie miasto	8	1	1971	45	25000	0.0012	0	30
+Wojtkowiak	Marcin	30798	male miasto	4	0	1984	32	30000	0.0012	0	36
+Jurecka	Kinga	24623	duze miasto	5	1	1967	49	25000	0.0012	0	30
+Popowski	Adam	31818	srednie miasto	2	0	1987	29	30000	0.001	0	30
+Pietrzyk	Anita	34201	duze miasto	8	1	1993	23	25000	0.001	0	25
+Sieduszewski	Piotr	27079	wies	2	0	1974	42	30000	0.0012	0	36
+Pryk	Tymon	18053	wies	6	0	1949	67	30000	0.0012	49	85
+Maj	Maciej	27059	duze miasto	1	0	1974	42	30000	0.0012	0	36
+Marciszewski	Roman	31039	srednie miasto	12	0	1984	32	30000	0.0012	0	36
+Adamski	Jerzy	34893	duze miasto	7	0	1995	21	30000	0.001	0	30
+Albert	Jerzy	22101	srednie miasto	7	0	1960	56	30000	0.0012	0	36
+Polkowicka	Dominika	16267	duze miasto	7	1	1944	72	25000	0.0012	49	79
+Cieplik	Marta	32103	duze miasto	11	1	1987	29	25000	0.001	0	25
+Parczewska	Malwina	25996	wies	3	1	1971	45	25000	0.0012	0	30
+Pisarska	Alicja	33040	duze miasto	6	1	1990	26	25000	0.001	0	25
+Basiak	Anna	30671	wies	12	1	1983	33	25000	0.0012	0	30
+Janicka	Paulina	25243	duze miasto	2	1	1969	47	25000	0.0012	0	30
+Engel	Anna	27639	duze miasto	9	1	1975	41	25000	0.0012	0	30
+Plichta	Robert	25644	duze miasto	3	0	1970	46	30000	0.0012	0	36
+Barszczewska	Cecylia	27683	srednie miasto	10	1	1975	41	25000	0.0012	0	30
+Szklarska	Tekla	32765	wies	9	1	1989	27	25000	0.001	0	25
+Aleksandrowicz	Barbara	26380	wies	3	1	1972	44	25000	0.0012	0	30
+Kuc	Danuta	21508	srednie miasto	11	1	1958	58	25000	0.0012	0	30
+Kogut	Magdalena	32790	srednie miasto	10	1	1989	27	25000	0.001	0	25
+Sopocka	Olivia	24303	srednie miasto	7	1	1966	50	25000	0.0012	0	30
+Berezowska	Anita	30747	wies	3	1	1984	32	25000	0.0012	0	30
+Walczak	Maciej	19853	duze miasto	5	0	1954	62	30000	0.0012	49	85
+Guzik	Anna	32147	duze miasto	1	1	1988	28	25000	0.001	0	25
+Modzelewski	Mateusz	17904	duze miasto	1	0	1949	67	30000	0.0012	49	85
+Dudek	Marzena	20057	duze miasto	11	1	1954	62	25000	0.0012	49	79
+Banach	Leon	30863	wies	6	0	1984	32	30000	0.0012	0	36
+Klasz	Marcin	22435	srednie miasto	6	0	1961	55	30000	0.0012	0	36
+Banasik	Irena	17048	duze miasto	9	1	1946	70	25000	0.0012	49	79
+Kisiel	Dawid	24732	srednie miasto	9	0	1967	49	30000	0.0012	0	36
+Geldner	Magdalena	18589	srednie miasto	11	1	1950	66	25000	0.0012	49	79
+Rygielski	Maciej	20727	duze miasto	9	0	1956	60	30000	0.0012	0	36
+Ossowski	Karol	23401	srednie miasto	1	0	1964	52	30000	0.0012	0	36
+Kisielewska	Greta	17084	srednie miasto	10	1	1946	70	25000	0.0012	49	79
+Nyski	Piotr	30481	duze miasto	6	0	1983	33	30000	0.0012	0	36
+Kopec	Anna	20651	duze miasto	7	1	1956	60	25000	0.0012	0	30
+Sznyrowska	Wiktoria	32580	duze miasto	3	1	1989	27	25000	0.001	0	25
+Tichoniuk	Marcin	18233	duze miasto	12	0	1949	67	30000	0.0012	49	85
+Dul	Dominika	24225	srednie miasto	4	1	1966	50	25000	0.0012	0	30
+Grzegorczyk	Marta	27299	srednie miasto	9	1	1974	42	25000	0.0012	0	30
+Grzywacz	Wanda	18398	duze miasto	5	1	1950	66	25000	0.0012	49	79
+Banach	Dorota	34400	duze miasto	3	1	1994	22	25000	0.001	0	25
+Legnicka	Karina	21513	duze miasto	11	1	1958	58	25000	0.0012	0	30
+Barabasz	Krystyna	31749	srednie miasto	12	1	1986	30	25000	0.001	0	25
+Borowska	Ewelina	34235	srednie miasto	9	1	1993	23	25000	0.001	0	25
+Cedro	Zofia	19183	wies	7	1	1952	64	25000	0.0012	49	79
+Sieradzki	Piotr	27424	duze miasto	1	0	1975	41	30000	0.0012	0	36
+Sar	Wojciech	23665	duze miasto	10	0	1964	52	30000	0.0012	0	36
+Kordaszewska	Magdalena	17649	srednie miasto	4	1	1948	68	25000	0.0012	49	79
+Bauer	Jagoda	25530	srednie miasto	11	1	1969	47	25000	0.0012	0	30
+Brychcy	Agata	34758	wies	2	1	1995	21	25000	0.001	0	25
+Potocki	Grzegorz	17531	duze miasto	12	0	1947	69	30000	0.0012	49	85
+Kordaszewski	Piotr	32482	srednie miasto	12	0	1988	28	30000	0.001	0	30
+Wiatrowski	Roman	34533	duze miasto	7	0	1994	22	30000	0.001	0	30
+Albert	Joanna	28491	duze miasto	1	1	1978	38	25000	0.0012	0	30
+Balcer	Iwona	32689	wies	6	1	1989	27	25000	0.001	0	25
+Augustowska	Irma	27112	srednie miasto	3	1	1974	42	25000	0.0012	0	30
+Jackowska	Maria	29259	duze miasto	2	1	1980	36	25000	0.0012	0	30
+Adamczyk	Julia	18437	srednie miasto	6	1	1950	66	25000	0.0012	49	79
+Sosnowiecka	Dorota	34406	duze miasto	3	1	1994	22	25000	0.001	0	25
+Henrykowski	Kornel	26689	duze miasto	1	0	1973	43	30000	0.0012	0	36
+Szklarska	Karolina	24391	srednie miasto	10	1	1966	50	25000	0.0012	0	30
+Podczasiak	Jadwiga	22010	duze miasto	4	1	1960	56	25000	0.0012	0	30
+Skrzydlowski	Dawid	17207	wies	2	0	1947	69	30000	0.0012	49	85
+Genewski	Andrzej	22547	srednie miasto	9	0	1961	55	30000	0.0012	0	36
+Bienias	Alina	20722	duze miasto	9	1	1956	60	25000	0.0012	0	30
+Madrycki	Janusz	24900	duze miasto	3	0	1968	48	30000	0.0012	0	36
+Opolska	Paulina	20808	duze miasto	12	1	1956	60	25000	0.0012	0	30
+Barwicka	Zofia	30235	duze miasto	10	1	1982	34	25000	0.0012	0	30
+Leniak	Jacek	21221	wies	2	0	1958	58	30000	0.0012	0	36
+Kapanowska	Marta	20193	srednie miasto	4	1	1955	61	25000	0.0012	49	79
+Lech	Bartosz	17137	srednie miasto	12	0	1946	70	30000	0.0012	49	85
+Kaczocha	Maciej	32802	srednie miasto	10	0	1989	27	30000	0.001	0	30
+Nowak	Anna	25839	duze miasto	9	1	1970	46	25000	0.0012	0	30
+Kozar	Artur	32028	duze miasto	9	0	1987	29	30000	0.001	0	30
+Barszczewska	Halina	31556	srednie miasto	5	1	1986	30	25000	0.001	0	25
+Bartoszek	Justyna	19153	srednie miasto	6	1	1952	64	25000	0.0012	49	79
+Gawlowska	Enrika	21934	srednie miasto	1	1	1960	56	25000	0.0012	0	30
+Balcerowska	Iwona	28187	duze miasto	3	1	1977	39	25000	0.0012	0	30
+Nagaj	Mieszko	34291	duze miasto	11	0	1993	23	30000	0.001	0	30
+Jakubczyk	Agnieszka	24652	srednie miasto	6	1	1967	49	25000	0.0012	0	30
+Aleksander	Barbara	18010	srednie miasto	4	1	1949	67	25000	0.0012	49	79
+Wiek	Jadwiga	26506	male miasto	7	1	1972	44	25000	0.0012	0	30
+Suchocki	Andrzej	30368	male miasto	2	0	1983	33	30000	0.0012	0	36
+Augustowska	Justyna	16991	duze miasto	7	1	1946	70	25000	0.0012	49	79
+Michalik	Wojciech	23950	duze miasto	7	0	1965	51	30000	0.0012	0	36
+Bandera	Ewa	26871	duze miasto	7	1	1973	43	25000	0.0012	0	30
+Rybicki	Jakub	17268	male miasto	4	0	1947	69	30000	0.0012	49	85
+Lysiak	Helena	31612	srednie miasto	7	1	1986	30	25000	0.001	0	25
+Balcerek	Zofia	21264	duze miasto	3	1	1958	58	25000	0.0012	0	30
+Blacharz	Krystyna	29622	male miasto	2	1	1981	35	25000	0.0012	0	30
+Augustowska	Anna	30875	srednie miasto	7	1	1984	32	25000	0.0012	0	30
+Kaczorowska	Agnieszka	31924	duze miasto	5	1	1987	29	25000	0.001	0	25
+Kisielewski	Krystian	23384	duze miasto	1	0	1964	52	30000	0.0012	0	36
+Sikora	Norbert	32097	srednie miasto	11	0	1987	29	30000	0.001	0	30
+Warszawska	Rita	22555	male miasto	10	1	1961	55	25000	0.0012	0	30
+Barszczewska	Anna	22508	duze miasto	8	1	1961	55	25000	0.0012	0	30
+Moskiewski	Sebastian	29510	srednie miasto	10	0	1980	36	30000	0.0012	0	36
+Pogrebniak	Jegor	22398	duze miasto	4	0	1961	55	30000	0.0012	0	36
+Gates	Anna	28394	wies	9	1	1977	39	25000	0.0012	0	30
+Zaprawa	Marcin	16244	srednie miasto	6	0	1944	72	30000	0.0012	49	85
+Mazgaj	Szymon	32836	duze miasto	11	0	1989	27	30000	0.001	0	30
+Samborski	Bartosz	23528	srednie miasto	5	0	1964	52	30000	0.0012	0	36
+Barcikowska	Zyta	28489	duze miasto	12	1	1977	39	25000	0.0012	0	30
+Radziejowski	Krystian	20920	duze miasto	4	0	1957	59	30000	0.0012	0	36
+Baranek	Magdalena	34164	srednie miasto	7	1	1993	23	25000	0.001	0	25
+Wosiak	Roman	32341	srednie miasto	7	0	1988	28	30000	0.001	0	30
+Cichawa	Dorota	16640	duze miasto	7	1	1945	71	25000	0.0012	49	79
+Smutnicki	Tomasz	28217	duze miasto	4	0	1977	39	30000	0.0012	0	36
+Kotala	Dominik	32646	male miasto	5	0	1989	27	30000	0.001	0	30
+Gralewicz	Ewelina	28636	male miasto	5	1	1978	38	25000	0.0012	0	30
+Matczak	Piotr	30418	duze miasto	4	0	1983	33	30000	0.0012	0	36
+Chorzowska	Jadwiga	33971	duze miasto	1	1	1993	23	25000	0.001	0	25
+Grzybek	Karolina	26974	duze miasto	11	1	1973	43	25000	0.0012	0	30
+Bartel	Ewa	21339	duze miasto	6	1	1958	58	25000	0.0012	0	30
+Kosaty	Marek	25150	srednie miasto	11	0	1968	48	30000	0.0012	0	36
+Pietkiewicz	Piotr	20340	duze miasto	9	0	1955	61	30000	0.0012	49	85
+Alot	Zofia	16045	srednie miasto	12	1	1943	73	25000	0.0012	49	79
+Glazik	Paulina	18568	duze miasto	11	1	1950	66	25000	0.0012	49	79
+Parczewska	Kazimiera	33976	duze miasto	1	1	1993	23	25000	0.001	0	25
+Barczuk	Maja	30720	duze miasto	2	1	1984	32	25000	0.0012	0	30
+Szkutnik	Bartosz	22604	wies	11	0	1961	55	30000	0.0012	0	36
+Podstawa	Jadwiga	19123	duze miasto	5	1	1952	64	25000	0.0012	49	79
